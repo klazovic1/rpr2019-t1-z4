@@ -75,6 +75,7 @@ public class Main {
                         }
                     }
                 }
+
             }
             else if(opcija == 2){
                 System.out.println("Izbacivanje artikla iz korpe\nArtikli u korpi su: ");
