@@ -24,7 +24,7 @@ public class Supermarket {
         Artikl a = null;
 
         for(int i=0; i<1000-1; i++){
-            if(artikli[i] == null) break;
+            if(supermarket[i] == null) break;
             if( k.equals(supermarket[i].kod) ){
                 a = supermarket[i];
                 for(int j=i; j<1000-21; j++){
